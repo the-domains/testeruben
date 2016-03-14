@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: O primeiro post na Grid
-datePublished: '2016-03-14T18:00:25.181Z'
-dateModified: '2016-03-14T17:59:51.050Z'
+datePublished: '2016-03-14T18:03:37.967Z'
+dateModified: '2016-03-14T18:03:12.203Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-14-o-primeiro-post-na-grid.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-14-o-primeiro-post-na-grid.md
-published: true
 url: o-primeiro-post-na-grid/index.html
 _type: Article
 
