@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[testeruben]]></title>
         <description><![CDATA[testeruben]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/testeruben/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 18:00:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 18:03:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testeruben/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8aed92c-95a8-4be3-9399-e1121e46fd07.jpg">]]></description>
-            <link>undefinedo-primeiro-post-na-grid/index.html</link>
+            <link>https://thegrid.ai/testeruben/o-primeiro-post-na-grid/index.html</link>
             <guid isPermaLink="false">f466611d-f215-4dbd-aa7c-27015f945752</guid>
-            <pubDate>Mon, 14 Mar 2016 18:00:25 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2016 18:03:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
