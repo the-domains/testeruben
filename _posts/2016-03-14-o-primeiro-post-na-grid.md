@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: O primeiro post na Grid
-datePublished: '2016-03-14T18:03:37.967Z'
-dateModified: '2016-03-14T18:03:12.203Z'
+datePublished: '2016-03-14T18:07:51.822Z'
+dateModified: '2016-03-14T18:07:31.907Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-14-o-primeiro-post-na-grid.md
