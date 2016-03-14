@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: O primeiro post na Grid
-datePublished: '2016-03-14T18:21:57.651Z'
-dateModified: '2016-03-14T18:21:46.692Z'
+datePublished: '2016-03-14T18:23:23.167Z'
+dateModified: '2016-03-14T18:23:22.468Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-14-o-primeiro-post-na-grid.md
@@ -26,3 +26,4 @@ _type: Article
 
 O primeiro post na Grid
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/152c6d8f-40a0-4861-a0ab-3689975b01f7.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65f9c9f7-f918-4155-99fc-8fa4c87b2d4c.png)
