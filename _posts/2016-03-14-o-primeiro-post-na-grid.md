@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: O primeiro post na Grid
-datePublished: '2016-03-14T18:07:51.822Z'
-dateModified: '2016-03-14T18:07:31.907Z'
+datePublished: '2016-03-14T18:21:57.651Z'
+dateModified: '2016-03-14T18:21:46.692Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-14-o-primeiro-post-na-grid.md
@@ -25,3 +25,4 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8aed92c-95a8-4be3-9399-e1121e46fd07.jpg)
 
 O primeiro post na Grid
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/152c6d8f-40a0-4861-a0ab-3689975b01f7.png)
