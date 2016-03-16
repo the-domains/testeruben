@@ -1,7 +1,7 @@
 name: testeruben
 favicon: null
 layout_spectrum: 0.8639
-typography_spectrum: 0.6936199844349176
+typography_spectrum: 0.84851
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.25
+  brandStrength: 0.1875
   lightness: 0.6686415753792971
   saturation: 0.6016788564156741
   rhythmicContrast: 0.75
